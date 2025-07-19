@@ -1,6 +1,6 @@
 {
   "allowed_hwids": [
-    "BFEBFBFF000906EA",
+    "BFEBFBFF000906EC",
     "KJHEFD438JFKHJF7"
   ]
 }
